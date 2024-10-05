@@ -1,16 +1,17 @@
-# BrainDawgs_Kushagr-Joshi_RA2411OO3011964
+# BrainDawgs_CampusConnect
 Team Name - BrainDawgs
 Team Member details :-
 
-1. Kushagr Joshi
- RA2411003011964
- kushagrjoshi777@gmail.com / kj9148@srmist.edu.in
-
-2. Atharv Tamboli
+1. Atharv Tamboli
  RA2411003011930
+ tamboli.atharv@gmail.com
  at2421@srmist.edu.in
 
-3. Aman Kumar
+3. Kushagr Joshi
+ RA2411003011964
+  kj9148@srmist.edu.in
+
+4. Aman Kumar
  RA2411003011899
  ac8126@srmist.edu.in
 
